@@ -8,7 +8,7 @@ A full-stack realtime chat application with user authentication, one-to-one & gr
 
 ## ⚙️ Tech Stack
 
-- **Frontend**: React.js, Axios, Redux
+- **Frontend**: React.js, Axios, Redux ,Tailwindcss 
 - **Backend**: Node.js, Express.js, MongoDB, Socket.IO
 - **Auth**: JWT, bcrypt
 
